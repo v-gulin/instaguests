@@ -12,7 +12,7 @@
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>badge</key>
-		<string>POPULAR</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -24,7 +24,7 @@
 		<key>price_title</key>
 		<string>Try for FREE</string>
 		<key>badge</key>
-		<string>BEST OFFER</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -49,7 +49,7 @@
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>badge</key>
-		<string>POPULAR</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -61,7 +61,7 @@
 		<key>price_title</key>
 		<string>Try for FREE</string>
 		<key>badge</key>
-		<string>BEST OFFER</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
