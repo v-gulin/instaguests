@@ -49,13 +49,25 @@
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>badge</key>
-		<string></string>
+		<string>POPULAR</string>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.viktorgulin.instaguests.1month</string>
+		<key>title</key>
+		<string>Monthly</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+		<key>price_title</key>
+		<string>Try for FREE</string>
+		<key>badge</key>
+		<string>BEST OFFER</string>
 	</dict>
 	<dict>
 		<key>product_id</key>
 		<string>com.viktorgulin.instaguests.2months</string>
 		<key>title</key>
-		<string>2 months</string>
+		<string>2 Months</string>
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>price_title</key>
