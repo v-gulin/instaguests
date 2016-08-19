@@ -18,23 +18,11 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.instaguests.1month</string>
 		<key>title</key>
-		<string>Monthly</string>
+		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>1</integer>
+		<integer>-1</integer>
 		<key>price_title</key>
-		<string>Try for FREE</string>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.viktorgulin.instaguests.2months</string>
-		<key>title</key>
-		<string>2 Months</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>price_title</key>
-		<string>Try for FREE</string>
+		<string>7 days for FREE</string>
 		<key>badge</key>
 		<string></string>
 	</dict>
@@ -80,7 +68,7 @@
 <string>main</string>
 <key>alternative_delay_time</key>
 <integer>36000000</integer>
-<key>localize</key>
+<key>com.viktorgulin.instaguests</key>
 <true/>
 </dict>
 </plist>
