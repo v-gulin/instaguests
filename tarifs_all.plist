@@ -23,11 +23,11 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.instaguests.1month</string>
 		<key>title</key>
-		<string>Monthly</string>
+		<string>Daily</string>
 		<key>divide_value</key>
-		<integer>1</integer>
+		<integer>31</integer>
 		<key>price_title</key>
-		<string>Try for FREE</string>
+		<string>Best Offer!</string>
 		<key>badge</key>
 		<string></string>
 	</dict>
