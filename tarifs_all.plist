@@ -6,23 +6,13 @@
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.instaguests.weekly</string>
-		<key>title</key>
-		<string>Weekly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
 		<string>com.viktorgulin.instaguests.1month</string>
 		<key>title</key>
 		<string>FREE!</string>
 		<key>divide_value</key>
 		<integer>-1</integer>
 		<key>price_title</key>
-		<string>7 days for FREE</string>
+		<string>TRY it for FREE!</string>
 		<key>badge</key>
 		<string></string>
 	</dict>
@@ -31,31 +21,9 @@
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.instaguests.weekly</string>
-		<key>title</key>
-		<string>Weekly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
 		<string>com.viktorgulin.instaguests.1month</string>
 		<key>title</key>
 		<string>Monthly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>price_title</key>
-		<string>Try for FREE</string>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.viktorgulin.instaguests.2months</string>
-		<key>title</key>
-		<string>2 Months</string>
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>price_title</key>
