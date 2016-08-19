@@ -68,7 +68,5 @@
 <string>main</string>
 <key>alternative_delay_time</key>
 <integer>36000000</integer>
-<key>com.viktorgulin.instaguests</key>
-<true/>
 </dict>
 </plist>
